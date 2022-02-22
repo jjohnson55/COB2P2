@@ -1,0 +1,98 @@
+P02-JOHNSON                 QUARTERLY PAYROLL BY DEPT                 02/22/2022
+
+            DEPT    EMP ID  LAST NAME       FIRST NAME        QTR PAY
+          --------  ------  --------------- --------------- ----------
+          04 MKTG    4903   Garcia          Eliza            28,439.00
+                                                            ----------
+                                                 DEPT TOTAL  28,439.00
+
+          05 MGMT    9529   Walker          Bernadine        31,852.14
+                                                            ----------
+                                                 DEPT TOTAL  31,852.14
+
+          02 ACCT    6364   Wilson          Leila            19,714.15
+          02 ACCT    9212   Taylor          Bianca           19,181.15
+                                                            ----------
+                                                 DEPT TOTAL  38,895.30
+
+          01 PROD    4104   Miller          Matilda          18,595.50
+                                                            ----------
+                                                 DEPT TOTAL  18,595.50
+
+          03 SALES   4070   Martin          Barbra           20,847.50
+          03 SALES   4287   Thomas          Bettye           19,854.50
+          03 SALES   7341   Thompson        Georgina         22,992.50
+                                                            ----------
+                                                 DEPT TOTAL  63,694.50
+
+          05 MGMT    8773   Hall            Flossie          30,951.23
+                                                            ----------
+                                                 DEPT TOTAL  30,951.23
+
+          01 PROD    8940   Smith           Luisa            19,042.25
+                                                            ----------
+                                                 DEPT TOTAL  19,042.25
+
+          02 ACCT    1106   Moore           Cornelia         20,441.25
+                                                            ----------
+                                                 DEPT TOTAL  20,441.25
+
+          03 SALES   8774   White           Virgie           21,546.25
+                                                            ----------
+                                                 DEPT TOTAL  21,546.25
+
+          04 MKTG    6111   Rodriguez       Haley            21,345.32
+                                                            ----------
+                                                 DEPT TOTAL  21,345.32
+
+          01 PROD    2722   Davis           Audra            16,281.00
+                                                            ----------
+                                                 DEPT TOTAL  16,281.00
+
+          03 SALES   4270   Jackson         Randi            30,055.00
+                                                            ----------
+                                                 DEPT TOTAL  30,055.00
+
+          04 MKTG    6134   Robinson        Bridgette        23,012.35
+                                                            ----------
+                                                 DEPT TOTAL  23,012.35
+
+          05 MGMT    9780   Lee             Nola             28,321.45
+                                                            ----------
+                                                 DEPT TOTAL  28,321.45
+
+          01 PROD    1290   Jones           Ofelia           16,469.50
+                                                            ----------
+                                                 DEPT TOTAL  16,469.50
+
+          03 SALES   9539   Harris          Linda            24,365.50
+                                                            ----------
+                                                 DEPT TOTAL  24,365.50
+
+          04 MKTG    3065   Martinez        Leann            21,696.50
+                                                            ----------
+                                                 DEPT TOTAL  21,696.50
+
+          05 MGMT    2823   Lewis           Adela            36,045.63
+                                                            ----------
+                                                 DEPT TOTAL  36,045.63
+
+          01 PROD    2035   Brown           Meagan           14,506.75
+          01 PROD    8642   Williams        Magdalena        10,386.75
+                                                            ----------
+                                                 DEPT TOTAL  24,893.50
+
+          03 SALES   7783   Anderson        Simone           24,463.75
+                                                            ----------
+                                                 DEPT TOTAL  24,463.75
+
+          01 PROD    2600   Johnson         Jeri             15,978.85
+                                                            ----------
+                                                 DEPT TOTAL  15,978.85
+
+          04 MKTG    1000   Clark           Rhoda            22,456.98
+                                                            ----------
+                                                 DEPT TOTAL  22,456.98
+
+
+                                              COMPANY TOTAL 578,842.75
